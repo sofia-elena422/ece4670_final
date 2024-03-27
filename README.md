@@ -1,0 +1,1 @@
+For this project, Kidus Zegeye and I used an RP2040 connected to muscle electrodes to control a Markov music model trained on Christmas carols. If you are interested in learning more about the details of our project, feel free to look at my personal website: https://sofia-elena422.github.io/personal_website/music.html
